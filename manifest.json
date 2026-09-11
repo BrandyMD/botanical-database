@@ -1,0 +1,8 @@
+{
+  "version": "8.0-fix-enrich-build",
+  "generatedAt": "2026-09-11T02:15:33.006254+00:00",
+  "totalRecords": 36696,
+  "chunkSize": 2500,
+  "chunkCount": 15,
+  "maxSpreadsheetCapacity": 100000
+}
