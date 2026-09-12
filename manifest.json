@@ -1,10 +1,9 @@
 {
-  "version": "21.0-alternative-haworthia-expansion",
-  "generatedAt": "2026-09-12T20:08:38.285308+00:00",
-  "totalRecords": 59484,
+  "version": "25.1-rare-aroids-plus-guaranteed-icons",
+  "generatedAt": "2026-09-12T21:16:03.218613+00:00",
+  "totalRecords": 63620,
   "chunkSize": 2500,
-  "chunkCount": 24,
+  "chunkCount": 26,
   "maxSpreadsheetCapacity": 100000,
-  "v18BaselinePreserved": true,
-  "haworthiaLandUsed": false
+  "v25BaselinePreserved": true
 }
