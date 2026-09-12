@@ -1,8 +1,9 @@
 {
-  "version": "12.0-final-collector-registry-build",
-  "generatedAt": "2026-09-11T23:38:32.357165+00:00",
-  "totalRecords": 18285,
+  "version": "14.0-tradescantia-icra-patch",
+  "generatedAt": "2026-09-12T03:49:22.257839+00:00",
+  "totalRecords": 51183,
   "chunkSize": 2500,
-  "chunkCount": 8,
-  "maxSpreadsheetCapacity": 100000
+  "chunkCount": 21,
+  "maxSpreadsheetCapacity": 100000,
+  "v13PreservedExceptTradescantiaModule": true
 }
