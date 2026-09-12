@@ -1,9 +1,10 @@
 {
-  "version": "14.0-tradescantia-icra-patch",
-  "generatedAt": "2026-09-12T03:49:22.257839+00:00",
-  "totalRecords": 51183,
+  "version": "21.0-alternative-haworthia-expansion",
+  "generatedAt": "2026-09-12T20:08:38.285308+00:00",
+  "totalRecords": 59484,
   "chunkSize": 2500,
-  "chunkCount": 21,
+  "chunkCount": 24,
   "maxSpreadsheetCapacity": 100000,
-  "v13PreservedExceptTradescantiaModule": true
+  "v18BaselinePreserved": true,
+  "haworthiaLandUsed": false
 }
