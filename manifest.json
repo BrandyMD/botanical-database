@@ -1,9 +1,9 @@
 {
-  "version": "25.1-rare-aroids-plus-guaranteed-icons",
-  "generatedAt": "2026-09-12T21:16:03.218613+00:00",
-  "totalRecords": 63620,
+  "version": "25.2-core-completion",
+  "generatedAt": "2026-09-12T22:42:40.479028+00:00",
+  "totalRecords": 63637,
   "chunkSize": 2500,
   "chunkCount": 26,
   "maxSpreadsheetCapacity": 100000,
-  "v25BaselinePreserved": true
+  "v25_1BaselinePreserved": true
 }
